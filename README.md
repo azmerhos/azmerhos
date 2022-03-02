@@ -1,4 +1,7 @@
-Just a random who learn to develop and chill, don't take care of me :)
+I'm just a frenchy random who learn code and chill. 
+Don't mind me :)
+
+*More detailed README in process*
 
 <!---
 azmerhos/azmerhos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
