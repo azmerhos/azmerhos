@@ -1,4 +1,4 @@
-I'm just a frenchy random who learn code and chill. 
+I'm just a random frenchy who learn code and chill. 
 Don't mind me :)
 
 *More detailed README in process*
